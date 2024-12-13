@@ -16,7 +16,7 @@ Este projeto é uma aplicação simples de calculadora desenvolvida utilizando R
 Você pode visualizar e testar a aplicação publicada no GitHub Pages acessando o seguinte link:
 
 <div style="text-align:left;">
-<a href=""><img src="./calculadora%20img.png" alt="imagem do projeto" width="300" /> </a>
+<a href="https://jakeline17.github.io/Calculadora-React/"><img src="./calculadora%20img.png" alt="imagem do projeto" width="300" /> </a>
 </div>
 
 ## Melhorias Futuras
