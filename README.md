@@ -13,10 +13,10 @@ Este projeto é uma aplicação simples de calculadora desenvolvida utilizando R
 * Styled-components: Biblioteca para estilização de componentes com CSS-in-JS.
 
 ## Confira o Projeto Online
-Você pode visualizar e testar a aplicação publicada no GitHub Pages acessando o seguinte link:
+Você pode visualizar e testar a aplicação publicada no GitHub Pages acessando o seguinte [link](https://jakeline17.github.io/Calculadora-React/):
 
 <div style="text-align:center;">
-<a href=""><img src="./calculadora%20img.png" alt="imagem do projeto" width="300" /> </a>
+<a href="https://jakeline17.github.io/Calculadora-React/"><img src="./calculadora%20img.png" alt="imagem do projeto" width="300" /> </a>
 </div>
 
 ## Melhorias Futuras
